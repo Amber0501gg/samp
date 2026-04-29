@@ -1,4 +1,4 @@
-FFFFFFFF-62C51E00 (permanente) (West)
-62C51E00 (permanente) (West)
+FFFFFFFF-62C51E00 (permanente) (West 1)
+62C51E00 (permanente) (West 2)
 FFFFFFFF9E45CF36 (permanente) (Tigrin)
 FFFFFFFF82E9FC6E (permanente) (Wess)
