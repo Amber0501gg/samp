@@ -2,3 +2,4 @@
 FFFFFFFF9E45CF36 (permanente) (Tigrin)
 FFFFFFFFCAE17C73 (permanente) (wess)
 58011F90 (04/06/2026) (Ceaga)
+6C8DBB5F (permanente) (Hariel)
